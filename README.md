@@ -1,9 +1,8 @@
-### Java Study Guide: Beginner to Advanced
+# Java Study Guide: Beginner to Advanced
 
 ---
 
 **Contents**
-
 1. [Introduction to Java](#introduction-to-java)
 2. [Java Basics](#java-basics)
 3. [Control Flow Statements](#control-flow-statements)
@@ -17,7 +16,7 @@
 
 ---
 
-# 1. Introduction to Java
+### 1. Introduction to Java
 
 Java is a **platform-independent** language, meaning it can run on any device that has a Java Virtual Machine (JVM). It's known for its **object-oriented** structure and **simplicity**, making it a powerful language for beginners and advanced users alike.
 
@@ -44,7 +43,7 @@ public class HelloWorld {
 
 ---
 
-# 2. Java Basics
+### 2. Java Basics
 
 #### Data Types
 Java supports several **primitive data types**:
@@ -81,6 +80,8 @@ Variables store values that can change, while constants use `final` to prevent c
 int num = 5;           // Variable
 final double PI = 3.14; // Constant
 ```
+
+---
 
 ### 3. Control Flow Statements
 
@@ -141,6 +142,8 @@ switch(day) {
   Wednesday
   ```
 
+---
+
 ### 4. Object-Oriented Programming
 
 Java is **object-oriented**, which means it models real-world entities using **classes** and **objects**.
@@ -183,6 +186,8 @@ public class Main {
 - **Encapsulation**: Hides data using `private` and exposes it through `public` methods.
 - **Abstraction**: Shows only essential details; hides the complex parts.
 
+---
+
 ### 5. Exception Handling
 
 Java's **exception handling** ensures errors are caught and managed without crashing.
@@ -203,6 +208,8 @@ try {
   Done!
   ```
 
+---
+
 ### 6. Strings and String Handling
 
 Java has the `String` class with powerful methods for handling text.
@@ -220,6 +227,8 @@ System.out.println("Substring: " + s.substring(7));
   Uppercase: HELLO, WORLD!
   Substring: World!
   ```
+
+---
 
 ### 7. Arrays and Collections
 
@@ -244,6 +253,8 @@ System.out.println(list.get(0));
   ```
   Element
   ```
+
+---
 
 ### 8. Searching and Sorting
 
@@ -270,6 +281,8 @@ Arrays.binarySearch(array, key);
 - **Arrays.sort()**: Sorts arrays.
 - **Collections.sort()**: Sorts collections.
 
+---
+
 ### 9. Working with Date and Time
 
 The `java.time` package provides classes to work with date and time.
@@ -283,6 +296,8 @@ System.out.println("Today's date: " + date);
   ```
   Today's date: 2023-10-30 (example)
   ```
+
+---
 
 ### 10. Problem Solving and Sample Exercises
 
