@@ -4,6 +4,7 @@
 ---
 
 **Contents**
+
 1. [Introduction to Java](#introduction-to-java)
 2. [Java Basics](#java-basics)
 3. [Control Flow Statements](#control-flow-statements)
@@ -45,7 +46,7 @@ public class HelloWorld {
 
 ---
 
-### 2. Java Basics
+### Java Basics
 
 #### Data Types
 Java supports several **primitive data types**:
