@@ -46,7 +46,7 @@ public class HelloWorld {
 
 ---
 
-### Java Basics
+### 2. Java Basics
 
 #### Data Types
 Java supports several **primitive data types**:
