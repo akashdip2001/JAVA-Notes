@@ -1,6 +1,7 @@
 # Java Study Guide: Beginner to Advanced
 
 ---
+---
 
 **Contents**
 1. [Introduction to Java](#introduction-to-java)
