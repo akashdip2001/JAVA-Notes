@@ -1,0 +1,134 @@
+09:54 PM 05-11-2024
+===================
+Trainer: Mr. Raghab
+
+Todays topics
+=============
+1) Full stack Development
+2) who attend this course: any one
+3) pre requisite: No only your time and dedication and hard work
+==========================
+*) Full Stack Developer
+-----------------------
+=> Developer who is expert in multiple areas of Project development is called Full Stack Developer.
+
+=> Frontend(Client Side development),Backend(Server side development),
+Database(SQL),DevOps knowledge(basic -> Dev tools), AWS
+
+=> Frontend(HTML,CSS,JavaScript,Frontend Frameworks) + Backend(JavaScript,    Java, .NET, Python, PHP) 
+
+=> Backend Java -> Full Stack Java Developer
+           Python -> Full Stack Python Developer
+	   .NET   -> Full stack .NET Developer
+	   JavaScript -> Full stack web Developer
+
+================================================================================================================================================
+Full Stack Java Development
+===========================
+1. Backend : 
+============
+	Core Java (Java SE)   SE:: Standered Edition
+	Adv Java (Java EE)    EE:: Enterprise Edition
+	Frameworks(Spring -> Spring Boot) 
+	Design Pattern
+2. DB Knowdledge
+================
+	SQL(MySQL or PostgreSQL)
+
+3. UI/UX
+=========
+	HTML5,CSS,BootStrap,JS,JQuery,React.JS,Angular
+
+4. DevOps
+=========
+	Git,GitHub,Maven,Docker,k8s,Jenkins,Agile Jira,Sonar Qube,Nexus,Jfrog...Eclipse,IntelliJ
+
+5. AWS
+=======
+Deploy and take services from cloud provider
+
+
+
+Freshers:Core Java + Collection Frameworks + DSA with Java + Adv Java(JDBC,Servlet,JSP) + Spring(Core,Context,AOP,web MVC,Data JPA,Cloud,Security...20+) + Spring Boot
+
+=====================
+Programming Language:
+=====================
+=> It is installable software providing basic feature of application development.
+=> It acts as raw material for software Programming
+
+=> It provides Compiler or Interpreter to check syntaxes(rules) and Semantics(structure) of the given program.
+
+=> It acts as base for creating Technology, Frameworks, Operating System, DB softwares
+
+=> Ex: C, C++ , C#, Java etc
+
+Note: Python is not a Programming Language
+->It is scripting language.
+->It runs on the top of other programming lang like : C, C++ , Scripts(Perl,shell..)
+
+==========
+Technology
+==========
+=> It is a software specification providing set of rules and guidelines in the form of API's(Application Programming Interface) to create implementation software using one or more programming language.
+
+Ex: JDBC, Servlet, JSP
+
+Drawbacks: Common logic + Business logic
+
+=========
+Framework
+=========
+=> Framework is a Semi-developed Softwar
+=> It is installable software that is built on the top of one or more Teechnologies(Java EE/Jakarta EE)
+
+=> Framework is a installable software that provides abstraction(hiding the details/implementation) to simplyfy the process of application development
+
+=> It provides common logic and you no need to write any same logic again and again ony business logic.
+
+Ex: Spring,Spring Boot, Hibernate, Strats..
+
+
+PL ====> 100%
+Technology ======> 70% + 30%(Technology/API)
+Frameworks ======> 15% + 85%(Framework)
+
+========================================================================================================================================================================================================================================================
+
+Next topic: Java Introduction(Core Java/Java SE/J2SE)
+
+
+
+Thank you
+---------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
